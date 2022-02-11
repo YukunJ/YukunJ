@@ -1,5 +1,4 @@
 ### Hi there 👋
-<-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=YukunJ)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
