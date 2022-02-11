@@ -1,9 +1,8 @@
 ### ✨Welcome to YukunJ's profile✨
 ![](https://komarev.com/ghpvc/?username=YukunJ)
 
-### 🤝 Connect with me:
-
 <a href="https://www.linkedin.com/in/yukun-jiang/"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/linkedin.svg" width="21px"/></a>
+<a href="mailto:yukunj@cs.cmu.edu"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/gmail.png" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
