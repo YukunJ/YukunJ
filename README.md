@@ -1,13 +1,9 @@
-### Hi there 👋
+### ✨Welcome to YukunJ's profile✨
 ![](https://komarev.com/ghpvc/?username=YukunJ)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+Greetings! I am Yukun, currently a graduate student at Carnegie Mellon University School of Computer Science. This is my github.
 
+- Pronouns: he/him/his
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
