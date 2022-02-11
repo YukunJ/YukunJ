@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=YukunJ)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&theme=merko" />
 </a>
