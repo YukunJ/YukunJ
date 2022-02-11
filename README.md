@@ -1,12 +1,22 @@
 ### ✨Welcome to YukunJ's profile✨
 ![](https://komarev.com/ghpvc/?username=YukunJ)
 
-Greetings! I am Yukun, currently a graduate student at Carnegie Mellon University School of Computer Science. This is my github.
+Greetings! I am Yukun, this is my github main page.
 
-- Pronouns: he/him/his
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **YukunJ/YukunJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
