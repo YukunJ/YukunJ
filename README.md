@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&theme=merko&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
