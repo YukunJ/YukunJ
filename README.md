@@ -4,19 +4,14 @@
 <a href="https://www.linkedin.com/in/yukun-jiang/"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/linkedin.svg" width="21px"/></a>
 <a href="mailto:yukunj@cs.cmu.edu"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/gmail.png" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 Greetings! I am Yukun, this is my github main page.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently at Carnegie Mellon University studying Computational Data Science
+- 🌱 I graduated from New York University Shanghai in Honors Mathematics and Computer Science
+- 😄 Pronouns: he/him/his
+- ✒️ Learn more about me at my website [yukunj.wordpress.com]
+- ⚡ Fun fact: fan of Gundam Seed & Destiny series for more than 10 years
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko)
 
