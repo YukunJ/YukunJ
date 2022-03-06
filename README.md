@@ -14,10 +14,10 @@ Greetings! I am Yukun, this is my github main page.
 - ⚡ Fun fact: big fan of Gundam Seed & Destiny series for more than 10 years
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukun&show_icons=true&include_all_commits=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun&hide=jupyter%20notebook,javascript,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html" />
 </a>
 
 <!--
