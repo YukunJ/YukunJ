@@ -9,9 +9,10 @@ Greetings! I am Yukun, this is my github main page.
 
 - 🔭 I’m currently at Carnegie Mellon University studying M.S. in Computational Data Science
 - 🌱 I graduated from New York University Shanghai with double B.S. in Honors Mathematics and Computer Science
+- 🏠 My hometown is Shanghai, China. A metropolis ever-evolving.
 - 😄 Pronouns: he/him/his
 - ✒️ Learn more about me at my [website](https://yukunj.wordpress.com)
-- ⚡ Fun fact: big fan of Gundam Seed & Destiny series for more than 10 years
+- ⚡ Fun fact: big fan of Gundam 00 & Seed & Destiny series for more than 10 years
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko" />
