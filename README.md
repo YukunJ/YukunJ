@@ -18,7 +18,7 @@ Greetings! I am Yukun, this is my github main page.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html" />
 </a>
 
 <!--
