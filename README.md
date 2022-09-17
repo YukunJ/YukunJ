@@ -5,13 +5,13 @@
 <a href="mailto:yukunj@cs.cmu.edu"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/gmail.png" width="21px"/></a>
 </br>
 
-Greetings! I am Yukun, this is my github main page.
+Greetings! I am **Yukun(宇昆)**, this is my github main page.
 
 - 🔭 I’m currently at Carnegie Mellon University studying M.S. in Computational Data Science
 - 🌱 I graduated from New York University Shanghai with double B.S. in Honors Mathematics and Computer Science
 - 🏠 My hometown is Shanghai, China. A metropolis ever-evolving
 - 😄 Pronouns: he/him/his
-- ✒️ Learn more about me at my [website](https://yukunj.com)
+- ✒️ Learn more about me at my [**website**](https://yukunj.com)
 - ⚡ Fun fact: big fan of Gundam 00 & Seed & Destiny series for more than 10 years
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
