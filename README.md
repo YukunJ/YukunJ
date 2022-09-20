@@ -13,7 +13,7 @@ Greetings! I am **Yukun(宇昆)**, this is my github main page.
 - 😄 Pronouns: he/him/his
 - ✒️ Learn more about me at my [**website**](https://yukunj.com)
 - ⚡ Fun fact: big fan of Gundam 00 & Seed & Destiny series for more than 10 years
-
+https://github.com/anuraghazra/github-readme-stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko" />
 </a>
