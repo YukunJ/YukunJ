@@ -3,6 +3,7 @@
 
 <a href="https://www.linkedin.com/in/yukun-jiang/"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/linkedin.svg" width="21px"/></a>
 <a href="mailto:yukunj@cs.cmu.edu"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/gmail.png" width="21px"/></a>
+<a href="https://www.instagram.com/kunkun.jyk"><img align="left" src="https://raw.githubusercontent.com/YukunJ/YukunJ/main/images/ins.png" width="21px"/></a>
 </br>
 
 Greetings! I am **Yukun(宇昆)**, this is my github main page.
