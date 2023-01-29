@@ -13,7 +13,8 @@ Greetings! I am **Yukun(宇昆)**, this is my github main page.
 - 🏠 My hometown is Shanghai, China. A metropolis ever-evolving
 - 😄 Pronouns: he/him/his
 - ✒️ Learn more about me at my [**website**](https://yukunj.com)
-- ⚡ Fun fact: big fan of <**Naruto**> series. **Uchiha Itachi** is my favorite character.
+- ⚡ Fun fact: big fan of <**Naruto**> series. **Uchiha Itachi** is my favorite character
+- 💪 Recently been working on [**Turtle**](https://github.com/YukunJ/Turtle) C++ network library
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko&count_private=true" />
