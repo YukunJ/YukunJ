@@ -7,7 +7,7 @@
 </br>
 
 Greetings! I am **Yukun(宇昆)**, this is my github main page.
-- 💼 I work as a junior Software Engineer for a trading company in the U.S.
+- 💼 I work as a Quantitative Software Engineer for a trading company in the U.S.
 - 🔭 I graduated from Carnegie Mellon University with M.S. in Computational Data Science (System Track)
 - 🌱 I graduated from New York University with double B.S. in Honors Mathematics and Computer Science
 - 🏠 My hometown is Shanghai, China. A metropolis ever-evolving
