@@ -12,7 +12,7 @@ Greetings! I am **Yukun(宇昆)**, this is my github main page.
 - 🌱 I graduated from New York University with double B.S. in Honors Mathematics and Computer Science
 - 🏠 My hometown is Shanghai, China. A metropolis ever-evolving
 - 😄 Pronouns: he/him/his
-- ✒️ Learn more about me at my [**website**](https://yukunj.com)
+- ✒️ Learn more about me at my [**website**](https://yukunj.github.io)
 - ⚡ Fun fact: big fan of <**Naruto**> series. **Uchiha Itachi** is my favorite character
 - 💪 Worked on [**Turtle**](https://github.com/YukunJ/Turtle) C++ network library before
 
