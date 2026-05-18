@@ -16,13 +16,6 @@ Greetings! I am **Yukun(宇昆)**, this is my github main page.
 - ⚡ Fun fact: big fan of <**Naruto**> series. **Uchiha Itachi** is my favorite character
 - 💪 Worked on [**Turtle**](https://github.com/YukunJ/Turtle) C++ network library before
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukunJ&show_icons=true&include_all_commits=true&theme=merko&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukunJ&hide=jupyter%20notebook,javascript,html&count_private=true" />
-</a>
-
 <!--
 **YukunJ/YukunJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
